@@ -1,0 +1,5 @@
+git remote add origin https://github.com/anajesset/tugas-akhir.git
+git add pola-penjualan.ipynb
+git commit -m "update"
+git branch -M main
+git push -u origin main
