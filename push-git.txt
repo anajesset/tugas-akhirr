@@ -1,4 +1,9 @@
+#push
 git remote set-url origin https://github.com/anajesset/tugas-akhirr.git
 git commit -m "update"
 git branch -M main
 git push -u origin main
+
+#pull
+git fetch origin main
+git reset --hard origin/main
