@@ -7,4 +7,5 @@ git push -u origin main
 
 #pull
 git fetch origin main
+git pull
 git reset --hard origin/main
