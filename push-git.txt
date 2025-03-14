@@ -3,7 +3,7 @@ git remote set-url origin https://github.com/anajesset/tugas-akhirr.git
 git add .
 git commit -m "update"
 git branch -M main
-git push -u origin main
+git push origin main
 
 #pull
 git fetch origin main
